@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Remek (@RemekLago)
-- 👀 I’m interested in Python and Java
+- 👀 I’m interested in Java, Python and Android
 - 🌱 I'm currently gaining knowledge of python, flask, django, css, html, jinja and other Python libraries.
 - 💞️ I’m looking to collaborate on some simple projects to learn more.
 - 📫 How to reach me: mail: remigiusz.lagodzki@gmail.com
